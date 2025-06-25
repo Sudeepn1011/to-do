@@ -5,11 +5,6 @@
 
 # To Do List
 
-![ToDoList](https://socialify.git.ci/tusharnankani/ToDoList/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
-
-#### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
-
-- View the local installation in the [CONTRUBUTING.md](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md).
 
 ### *Features*:
 
@@ -19,15 +14,8 @@
 * Responsive, on all devices
 * Themes: Users can choose among different themes.
 
-### *Features to be added*:
 
-Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributing to this repository.
 
-* SubTasks: Adding subtasks to the enlisted tasks, could be an option.
-* Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
-* ScratchPad: Adding an option of a Scratch pad and it can be locally saved.
-* Login Features (use APIs) & Database: So the website can be opened on any device, users can log in, and the To-Dos can be viewed anywhere, anytime.
-* Reminder/Alerts: Sending automated mails once logged in, and due date/time set.
 
 # *References*
 
@@ -41,11 +29,7 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 * For Type Writing effects: [Type-effects](https://usefulangle.com/post/85/css-typewriter-animation)
 * For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
 
-# *Contributions*
 
-- All contributors are most welcome! This is definitely open source!
-- View the [`CONTRIBUTING.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
-- All the contributors to this repository can be found in the [`CONTRIBUTORS.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTORS.md) file!
 
 ## *WEBSITE DEMO*
 
@@ -57,7 +41,4 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 
 ![Screenshot (774)](https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png)
 
-# *Author*
 
-* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/tusharnankani)
